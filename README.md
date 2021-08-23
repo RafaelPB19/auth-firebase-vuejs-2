@@ -1,5 +1,10 @@
 # auth-firebase-vuejs-2
 
+## Used Packages
+```
+VueJS 2, Vuex, Router, Babel and Firebase.
+```
+
 ## Project setup
 ```
 npm install
